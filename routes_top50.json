@@ -1,0 +1,1402 @@
+[
+ {
+  "rank": 1,
+  "a": {
+   "id": "HHR",
+   "n": "Jack Northrop Field Hawthorne Municipal Airport",
+   "c": "Hawthorne",
+   "s": "CA",
+   "lat": 33.9228,
+   "lon": -118.335
+  },
+  "b": {
+   "id": "SCK",
+   "n": "Stockton Metropolitan Airport",
+   "c": "Stockton",
+   "s": "CA",
+   "lat": 37.8933,
+   "lon": -121.2381
+  },
+  "gc_mi": 319,
+  "drive_min": 315,
+  "hub_min": 312,
+  "road_mi": 341,
+  "rnd_min": 147,
+  "saved_min": 165,
+  "pop_a": 10014009,
+  "pop_b": 779233,
+  "score": 226161019872.1
+ },
+ {
+  "rank": 2,
+  "a": {
+   "id": "L45",
+   "n": "Bakersfield International Airport",
+   "c": "Bakersfield",
+   "s": "CA",
+   "lat": 35.3248,
+   "lon": -118.996
+  },
+  "b": {
+   "id": "MYF",
+   "n": "Montgomery-Gibbs Executive Airport",
+   "c": "San Diego",
+   "s": "CA",
+   "lat": 32.8157,
+   "lon": -117.14
+  },
+  "gc_mi": 203,
+  "drive_min": 205,
+  "hub_min": 304,
+  "road_mi": 222,
+  "rnd_min": 104,
+  "saved_min": 101,
+  "pop_a": 909235,
+  "pop_b": 3298634,
+  "score": 104494258405.3
+ },
+ {
+  "rank": 3,
+  "a": {
+   "id": "FCH",
+   "n": "Fresno Chandler Executive Airport",
+   "c": "Fresno",
+   "s": "CA",
+   "lat": 36.7324,
+   "lon": -119.82
+  },
+  "b": {
+   "id": "HMT",
+   "n": "Hemet Ryan Airport",
+   "c": "Hemet",
+   "s": "CA",
+   "lat": 33.734,
+   "lon": -117.023
+  },
+  "gc_mi": 260,
+  "drive_min": 278,
+  "hub_min": 234,
+  "road_mi": 301,
+  "rnd_min": 117,
+  "saved_min": 117,
+  "pop_a": 1008654,
+  "pop_b": 2418185,
+  "score": 67626872524.6
+ },
+ {
+  "rank": 4,
+  "a": {
+   "id": "CIC",
+   "n": "Chico Regional Airport",
+   "c": "Chico",
+   "s": "CA",
+   "lat": 39.7956,
+   "lon": -121.8577
+  },
+  "b": {
+   "id": "HHR",
+   "n": "Jack Northrop Field Hawthorne Municipal Airport",
+   "c": "Hawthorne",
+   "s": "CA",
+   "lat": 33.9228,
+   "lon": -118.335
+  },
+  "gc_mi": 450,
+  "drive_min": 454,
+  "hub_min": 481,
+  "road_mi": 492,
+  "rnd_min": 199,
+  "saved_min": 256,
+  "pop_a": 211632,
+  "pop_b": 10014009,
+  "score": 56753661711.5
+ },
+ {
+  "rank": 5,
+  "a": {
+   "id": "MIA",
+   "n": "Miami International Airport",
+   "c": "Miami",
+   "s": "FL",
+   "lat": 25.796,
+   "lon": -80.2898
+  },
+  "b": {
+   "id": "VNC",
+   "n": "Venice Municipal Airport",
+   "c": "Venice",
+   "s": "FL",
+   "lat": 27.0705,
+   "lon": -82.4408
+  },
+  "gc_mi": 160,
+  "drive_min": 193,
+  "hub_min": 208,
+  "road_mi": 209,
+  "rnd_min": 96,
+  "saved_min": 97,
+  "pop_a": 2701767,
+  "pop_b": 434006,
+  "score": 56284879890.0
+ },
+ {
+  "rank": 6,
+  "a": {
+   "id": "MOD",
+   "n": "Modesto City Co-Harry Sham Field",
+   "c": "Modesto",
+   "s": "CA",
+   "lat": 37.6258,
+   "lon": -120.954
+  },
+  "b": {
+   "id": "MYF",
+   "n": "Montgomery-Gibbs Executive Airport",
+   "c": "San Diego",
+   "s": "CA",
+   "lat": 32.8157,
+   "lon": -117.14
+  },
+  "gc_mi": 396,
+  "drive_min": 394,
+  "hub_min": 375,
+  "road_mi": 427,
+  "rnd_min": 146,
+  "saved_min": 230,
+  "pop_a": 552878,
+  "pop_b": 3298634,
+  "score": 53192619593.1
+ },
+ {
+  "rank": 7,
+  "a": {
+   "id": "BKL",
+   "n": "Burke Lakefront Airport",
+   "c": "Cleveland",
+   "s": "OH",
+   "lat": 41.5175,
+   "lon": -81.6833
+  },
+  "b": {
+   "id": "LUK",
+   "n": "Cincinnati Municipal Airport Lunken Field",
+   "c": "Cincinnati",
+   "s": "OH",
+   "lat": 39.1024,
+   "lon": -84.4189
+  },
+  "gc_mi": 220,
+  "drive_min": 228,
+  "hub_min": 298,
+  "road_mi": 247,
+  "rnd_min": 115,
+  "saved_min": 113,
+  "pop_a": 1264817,
+  "pop_b": 1132316,
+  "score": 49290993811.5
+ },
+ {
+  "rank": 8,
+  "a": {
+   "id": "AGC",
+   "n": "Allegheny County Airport",
+   "c": "Pittsburgh",
+   "s": "PA",
+   "lat": 40.3544,
+   "lon": -79.9302
+  },
+  "b": {
+   "id": "BUF",
+   "n": "Buffalo Niagara International Airport",
+   "c": "Buffalo",
+   "s": "NY",
+   "lat": 42.9405,
+   "lon": -78.7322
+  },
+  "gc_mi": 189,
+  "drive_min": 214,
+  "hub_min": 211,
+  "road_mi": 232,
+  "rnd_min": 105,
+  "saved_min": 107,
+  "pop_a": 1250578,
+  "pop_b": 954236,
+  "score": 48943853514.3
+ },
+ {
+  "rank": 9,
+  "a": {
+   "id": "ALB",
+   "n": "Albany International Airport",
+   "c": "Albany",
+   "s": "NY",
+   "lat": 42.7483,
+   "lon": -73.8017
+  },
+  "b": {
+   "id": "ISP",
+   "n": "Long Island MacArthur Airport",
+   "c": "Islip",
+   "s": "NY",
+   "lat": 40.7963,
+   "lon": -73.1017
+  },
+  "gc_mi": 140,
+  "drive_min": 186,
+  "hub_min": 266,
+  "road_mi": 201,
+  "rnd_min": 85,
+  "saved_min": 101,
+  "pop_a": 475978,
+  "pop_b": 1525920,
+  "score": 44593265806.9
+ },
+ {
+  "rank": 10,
+  "a": {
+   "id": "MOD",
+   "n": "Modesto City Co-Harry Sham Field",
+   "c": "Modesto",
+   "s": "CA",
+   "lat": 37.6258,
+   "lon": -120.954
+  },
+  "b": {
+   "id": "SBD",
+   "n": "San Bernardino International Airport",
+   "c": "San Bernardino",
+   "s": "CA",
+   "lat": 34.0967,
+   "lon": -117.2366
+  },
+  "gc_mi": 321,
+  "drive_min": 343,
+  "hub_min": 358,
+  "road_mi": 372,
+  "rnd_min": 136,
+  "saved_min": 207,
+  "pop_a": 552878,
+  "pop_b": 2181654,
+  "score": 43472540347.6
+ },
+ {
+  "rank": 11,
+  "a": {
+   "id": "BFI",
+   "n": "King County International Airport - Boeing Field",
+   "c": "Seattle",
+   "s": "WA",
+   "lat": 47.527,
+   "lon": -122.2999
+  },
+  "b": {
+   "id": "SLE",
+   "n": "Salem-Willamette Valley Airport/McNary Field",
+   "c": "Salem",
+   "s": "OR",
+   "lat": 44.9095,
+   "lon": -123.003
+  },
+  "gc_mi": 184,
+  "drive_min": 200,
+  "hub_min": 276,
+  "road_mi": 216,
+  "rnd_min": 98,
+  "saved_min": 102,
+  "pop_a": 2269675,
+  "pop_b": 433353,
+  "score": 40037271510.9
+ },
+ {
+  "rank": 12,
+  "a": {
+   "id": "A20",
+   "n": "Sun Valley Airport",
+   "c": "Bullhead City",
+   "s": "AZ",
+   "lat": 35.0059,
+   "lon": -114.5651
+  },
+  "b": {
+   "id": "PHX",
+   "n": "Phoenix Sky Harbor International Airport",
+   "c": "Phoenix",
+   "s": "AZ",
+   "lat": 33.4353,
+   "lon": -112.0059
+  },
+  "gc_mi": 182,
+  "drive_min": 229,
+  "hub_min": 333,
+  "road_mi": 248,
+  "rnd_min": 126,
+  "saved_min": 103,
+  "pop_a": 213267,
+  "pop_b": 4420568,
+  "score": 39450947733.1
+ },
+ {
+  "rank": 13,
+  "a": {
+   "id": "SBD",
+   "n": "San Bernardino International Airport",
+   "c": "San Bernardino",
+   "s": "CA",
+   "lat": 34.0967,
+   "lon": -117.2366
+  },
+  "b": {
+   "id": "TLR",
+   "n": "Mefford Field",
+   "c": "Tulare",
+   "s": "CA",
+   "lat": 36.1563,
+   "lon": -119.326
+  },
+  "gc_mi": 185,
+  "drive_min": 211,
+  "hub_min": 297,
+  "road_mi": 228,
+  "rnd_min": 118,
+  "saved_min": 92,
+  "pop_a": 2181654,
+  "pop_b": 473117,
+  "score": 37833609310.0
+ },
+ {
+  "rank": 14,
+  "a": {
+   "id": "AVP",
+   "n": "Wilkes-Barre/Scranton International Airport",
+   "c": "Wilkes-Barre/Scranton",
+   "s": "PA",
+   "lat": 41.3371,
+   "lon": -75.7242
+  },
+  "b": {
+   "id": "BED",
+   "n": "Laurence G Hanscom Field",
+   "c": "Bedford",
+   "s": "MA",
+   "lat": 42.47,
+   "lon": -71.289
+  },
+  "gc_mi": 241,
+  "drive_min": 277,
+  "hub_min": 298,
+  "road_mi": 300,
+  "rnd_min": 126,
+  "saved_min": 152,
+  "pop_a": 567559,
+  "pop_b": 1632002,
+  "score": 37516806916.2
+ },
+ {
+  "rank": 15,
+  "a": {
+   "id": "IPL",
+   "n": "Imperial County Airport",
+   "c": "Imperial",
+   "s": "CA",
+   "lat": 32.8354,
+   "lon": -115.574
+  },
+  "b": {
+   "id": "PHX",
+   "n": "Phoenix Sky Harbor International Airport",
+   "c": "Phoenix",
+   "s": "AZ",
+   "lat": 33.4353,
+   "lon": -112.0059
+  },
+  "gc_mi": 211,
+  "drive_min": 235,
+  "hub_min": 274,
+  "road_mi": 254,
+  "rnd_min": 99,
+  "saved_min": 136,
+  "pop_a": 179702,
+  "pop_b": 4420568,
+  "score": 35278921325.6
+ },
+ {
+  "rank": 16,
+  "a": {
+   "id": "LAN",
+   "n": "Capital Region International Airport",
+   "c": "Lansing",
+   "s": "MI",
+   "lat": 42.7776,
+   "lon": -84.5857
+  },
+  "b": {
+   "id": "MKE",
+   "n": "General Mitchell International Airport",
+   "c": "Milwaukee",
+   "s": "WI",
+   "lat": 42.9472,
+   "lon": -87.8966
+  },
+  "gc_mi": 168,
+  "drive_min": 279,
+  "hub_min": 288,
+  "road_mi": 302,
+  "rnd_min": 108,
+  "saved_min": 171,
+  "pop_a": 473203,
+  "pop_b": 939489,
+  "score": 34830420158.7
+ },
+ {
+  "rank": 17,
+  "a": {
+   "id": "MDW",
+   "n": "Chicago Midway International Airport",
+   "c": "Chicago",
+   "s": "IL",
+   "lat": 41.786,
+   "lon": -87.7524
+  },
+  "b": {
+   "id": "PHN",
+   "n": "St Clair County International Airport",
+   "c": "Port Huron",
+   "s": "MI",
+   "lat": 42.911,
+   "lon": -82.5289
+  },
+  "gc_mi": 278,
+  "drive_min": 308,
+  "hub_min": 408,
+  "road_mi": 333,
+  "rnd_min": 119,
+  "saved_min": 188,
+  "pop_a": 5275541,
+  "pop_b": 160383,
+  "score": 34436830954.3
+ },
+ {
+  "rank": 18,
+  "a": {
+   "id": "MDW",
+   "n": "Chicago Midway International Airport",
+   "c": "Chicago",
+   "s": "IL",
+   "lat": 41.786,
+   "lon": -87.7524
+  },
+  "b": {
+   "id": "MFD",
+   "n": "Mansfield Lahm Regional Airport",
+   "c": "Mansfield",
+   "s": "OH",
+   "lat": 40.8214,
+   "lon": -82.5166
+  },
+  "gc_mi": 280,
+  "drive_min": 303,
+  "hub_min": 395,
+  "road_mi": 328,
+  "rnd_min": 131,
+  "saved_min": 172,
+  "pop_a": 5275541,
+  "pop_b": 177383,
+  "score": 34427903327.3
+ },
+ {
+  "rank": 19,
+  "a": {
+   "id": "GMU",
+   "n": "Greenville Downtown Airport",
+   "c": "Greenville",
+   "s": "SC",
+   "lat": 34.8479,
+   "lon": -82.3502
+  },
+  "b": {
+   "id": "RDU",
+   "n": "Raleigh-Durham International Airport",
+   "c": "Raleigh/Durham",
+   "s": "NC",
+   "lat": 35.8787,
+   "lon": -78.7873
+  },
+  "gc_mi": 213,
+  "drive_min": 232,
+  "hub_min": 297,
+  "road_mi": 251,
+  "rnd_min": 109,
+  "saved_min": 122,
+  "pop_a": 525534,
+  "pop_b": 1602939,
+  "score": 33148052093.2
+ },
+ {
+  "rank": 20,
+  "a": {
+   "id": "GED",
+   "n": "Delaware Coastal Airport",
+   "c": "Georgetown",
+   "s": "DE",
+   "lat": 38.6892,
+   "lon": -75.3589
+  },
+  "b": {
+   "id": "JFK",
+   "n": "John F. Kennedy International Airport",
+   "c": "New York",
+   "s": "NY",
+   "lat": 40.6394,
+   "lon": -73.7793
+  },
+  "gc_mi": 159,
+  "drive_min": 199,
+  "hub_min": 330,
+  "road_mi": 216,
+  "rnd_min": 97,
+  "saved_min": 102,
+  "pop_a": 237378,
+  "pop_b": 2736074,
+  "score": 32968491876.6
+ },
+ {
+  "rank": 21,
+  "a": {
+   "id": "BKL",
+   "n": "Burke Lakefront Airport",
+   "c": "Cleveland",
+   "s": "OH",
+   "lat": 41.5175,
+   "lon": -81.6833
+  },
+  "b": {
+   "id": "THV",
+   "n": "York Airport",
+   "c": "Thomasville",
+   "s": "PA",
+   "lat": 39.917,
+   "lon": -76.873
+  },
+  "gc_mi": 275,
+  "drive_min": 330,
+  "hub_min": 337,
+  "road_mi": 357,
+  "rnd_min": 131,
+  "saved_min": 199,
+  "pop_a": 1264817,
+  "pop_b": 560290,
+  "score": 30895334038.5
+ },
+ {
+  "rank": 22,
+  "a": {
+   "id": "BED",
+   "n": "Laurence G Hanscom Field",
+   "c": "Bedford",
+   "s": "MA",
+   "lat": 42.47,
+   "lon": -71.289
+  },
+  "b": {
+   "id": "MGJ",
+   "n": "Orange County Airport",
+   "c": "Montgomery",
+   "s": "NY",
+   "lat": 41.51,
+   "lon": -74.2646
+  },
+  "gc_mi": 167,
+  "drive_min": 193,
+  "hub_min": 277,
+  "road_mi": 209,
+  "rnd_min": 93,
+  "saved_min": 100,
+  "pop_a": 1632002,
+  "pop_b": 401310,
+  "score": 30593683237.4
+ },
+ {
+  "rank": 23,
+  "a": {
+   "id": "CMA",
+   "n": "Camarillo Airport",
+   "c": "Camarillo",
+   "s": "CA",
+   "lat": 34.2137,
+   "lon": -119.094
+  },
+  "b": {
+   "id": "SCK",
+   "n": "Stockton Metropolitan Airport",
+   "c": "Stockton",
+   "s": "CA",
+   "lat": 37.8933,
+   "lon": -121.2381
+  },
+  "gc_mi": 281,
+  "drive_min": 314,
+  "hub_min": 370,
+  "road_mi": 341,
+  "rnd_min": 122,
+  "saved_min": 192,
+  "pop_a": 843843,
+  "pop_b": 779233,
+  "score": 26830080615.8
+ },
+ {
+  "rank": 24,
+  "a": {
+   "id": "LAS",
+   "n": "Harry Reid International Airport",
+   "c": "Las Vegas",
+   "s": "NV",
+   "lat": 36.0834,
+   "lon": -115.1518
+  },
+  "b": {
+   "id": "PRC",
+   "n": "Prescott Regional Airport - Ernest A. Love Field",
+   "c": "Prescott",
+   "s": "AZ",
+   "lat": 34.6535,
+   "lon": -112.4199
+  },
+  "gc_mi": 183,
+  "drive_min": 228,
+  "hub_min": 283,
+  "road_mi": 247,
+  "rnd_min": 106,
+  "saved_min": 123,
+  "pop_a": 2265461,
+  "pop_b": 236209,
+  "score": 26582778155.4
+ },
+ {
+  "rank": 25,
+  "a": {
+   "id": "HFD",
+   "n": "Hartford Brainard Airport",
+   "c": "Hartford",
+   "s": "CT",
+   "lat": 41.7367,
+   "lon": -72.6494
+  },
+  "b": {
+   "id": "LNS",
+   "n": "Lancaster Airport",
+   "c": "Lancaster",
+   "s": "PA",
+   "lat": 40.1217,
+   "lon": -76.2961
+  },
+  "gc_mi": 221,
+  "drive_min": 252,
+  "hub_min": 301,
+  "road_mi": 273,
+  "rnd_min": 109,
+  "saved_min": 143,
+  "pop_a": 1063743,
+  "pop_b": 552984,
+  "score": 25697185583.5
+ },
+ {
+  "rank": 26,
+  "a": {
+   "id": "LUK",
+   "n": "Cincinnati Municipal Airport Lunken Field",
+   "c": "Cincinnati",
+   "s": "OH",
+   "lat": 39.1024,
+   "lon": -84.4189
+  },
+  "b": {
+   "id": "TYS",
+   "n": "McGhee Tyson Airport",
+   "c": "Knoxville/Maryville",
+   "s": "TN",
+   "lat": 35.811,
+   "lon": -83.994
+  },
+  "gc_mi": 229,
+  "drive_min": 252,
+  "hub_min": 302,
+  "road_mi": 272,
+  "rnd_min": 128,
+  "saved_min": 123,
+  "pop_a": 1132316,
+  "pop_b": 614251,
+  "score": 24791667765.5
+ },
+ {
+  "rank": 27,
+  "a": {
+   "id": "GRR",
+   "n": "Gerald R. Ford International Airport",
+   "c": "Grand Rapids",
+   "s": "MI",
+   "lat": 42.8808,
+   "lon": -85.5228
+  },
+  "b": {
+   "id": "MSN",
+   "n": "Dane County Regional Truax Field",
+   "c": "Madison",
+   "s": "WI",
+   "lat": 43.1399,
+   "lon": -89.3375
+  },
+  "gc_mi": 194,
+  "drive_min": 308,
+  "hub_min": 286,
+  "road_mi": 334,
+  "rnd_min": 109,
+  "saved_min": 177,
+  "pop_a": 657974,
+  "pop_b": 561504,
+  "score": 24254357730.2
+ },
+ {
+  "rank": 28,
+  "a": {
+   "id": "MHR",
+   "n": "Sacramento Mather Airport",
+   "c": "Sacramento",
+   "s": "CA",
+   "lat": 38.5547,
+   "lon": -121.298
+  },
+  "b": {
+   "id": "TLR",
+   "n": "Mefford Field",
+   "c": "Tulare",
+   "s": "CA",
+   "lat": 36.1563,
+   "lon": -119.326
+  },
+  "gc_mi": 198,
+  "drive_min": 201,
+  "hub_min": 299,
+  "road_mi": 217,
+  "rnd_min": 111,
+  "saved_min": 90,
+  "pop_a": 1585055,
+  "pop_b": 473117,
+  "score": 24237201317.3
+ },
+ {
+  "rank": 29,
+  "a": {
+   "id": "HVN",
+   "n": "Tweed New Haven Airport",
+   "c": "New Haven",
+   "s": "CT",
+   "lat": 41.2629,
+   "lon": -72.8877
+  },
+  "b": {
+   "id": "ROC",
+   "n": "Frederick Douglass Greater Rochester International Airport",
+   "c": "Rochester",
+   "s": "NY",
+   "lat": 43.1189,
+   "lon": -77.6724
+  },
+  "gc_mi": 276,
+  "drive_min": 348,
+  "hub_min": 301,
+  "road_mi": 377,
+  "rnd_min": 132,
+  "saved_min": 169,
+  "pop_a": 864835,
+  "pop_b": 759443,
+  "score": 24146935257.9
+ },
+ {
+  "rank": 30,
+  "a": {
+   "id": "BUF",
+   "n": "Buffalo Niagara International Airport",
+   "c": "Buffalo",
+   "s": "NY",
+   "lat": 42.9405,
+   "lon": -78.7322
+  },
+  "b": {
+   "id": "HVN",
+   "n": "Tweed New Haven Airport",
+   "c": "New Haven",
+   "s": "CT",
+   "lat": 41.2629,
+   "lon": -72.8877
+  },
+  "gc_mi": 321,
+  "drive_min": 378,
+  "hub_min": 310,
+  "road_mi": 410,
+  "rnd_min": 146,
+  "saved_min": 165,
+  "pop_a": 954236,
+  "pop_b": 864835,
+  "score": 23621263216.4
+ },
+ {
+  "rank": 31,
+  "a": {
+   "id": "LXT",
+   "n": "Lee's Summit Municipal Airport",
+   "c": "Lee's Summit",
+   "s": "MO",
+   "lat": 38.9597,
+   "lon": -94.3714
+  },
+  "b": {
+   "id": "MLE",
+   "n": "Millard Airport",
+   "c": "Omaha",
+   "s": "NE",
+   "lat": 41.1959,
+   "lon": -96.1121
+  },
+  "gc_mi": 180,
+  "drive_min": 202,
+  "hub_min": 244,
+  "road_mi": 218,
+  "rnd_min": 100,
+  "saved_min": 102,
+  "pop_a": 717204,
+  "pop_b": 775130,
+  "score": 23508034988.1
+ },
+ {
+  "rank": 32,
+  "a": {
+   "id": "ABI",
+   "n": "Abilene Regional Airport",
+   "c": "Abilene",
+   "s": "TX",
+   "lat": 32.4113,
+   "lon": -99.6819
+  },
+  "b": {
+   "id": "IAH",
+   "n": "George Bush Intercontinental Airport",
+   "c": "Houston",
+   "s": "TX",
+   "lat": 29.9844,
+   "lon": -95.3414
+  },
+  "gc_mi": 306,
+  "drive_min": 334,
+  "hub_min": 317,
+  "road_mi": 361,
+  "rnd_min": 151,
+  "saved_min": 166,
+  "pop_a": 156916,
+  "pop_b": 4731145,
+  "score": 22993233213.3
+ },
+ {
+  "rank": 33,
+  "a": {
+   "id": "GRR",
+   "n": "Gerald R. Ford International Airport",
+   "c": "Grand Rapids",
+   "s": "MI",
+   "lat": 42.8808,
+   "lon": -85.5228
+  },
+  "b": {
+   "id": "UES",
+   "n": "Waukesha County Airport",
+   "c": "Waukesha",
+   "s": "WI",
+   "lat": 43.041,
+   "lon": -88.2371
+  },
+  "gc_mi": 138,
+  "drive_min": 264,
+  "hub_min": 219,
+  "road_mi": 286,
+  "rnd_min": 84,
+  "saved_min": 135,
+  "pop_a": 657974,
+  "pop_b": 406978,
+  "score": 22366299760.0
+ },
+ {
+  "rank": 34,
+  "a": {
+   "id": "LAS",
+   "n": "Harry Reid International Airport",
+   "c": "Las Vegas",
+   "s": "NV",
+   "lat": 36.0834,
+   "lon": -115.1518
+  },
+  "b": {
+   "id": "NYL",
+   "n": "Yuma International Airport / Marine Corps Air Station Yuma",
+   "c": "Yuma",
+   "s": "AZ",
+   "lat": 32.6509,
+   "lon": -114.6094
+  },
+  "gc_mi": 239,
+  "drive_min": 275,
+  "hub_min": 275,
+  "road_mi": 298,
+  "rnd_min": 103,
+  "saved_min": 172,
+  "pop_a": 2265461,
+  "pop_b": 203881,
+  "score": 21527499341.3
+ },
+ {
+  "rank": 35,
+  "a": {
+   "id": "LXT",
+   "n": "Lee's Summit Municipal Airport",
+   "c": "Lee's Summit",
+   "s": "MO",
+   "lat": 38.9597,
+   "lon": -94.3714
+  },
+  "b": {
+   "id": "RVS",
+   "n": "Tulsa Riverside Airport",
+   "c": "Tulsa",
+   "s": "OK",
+   "lat": 36.0396,
+   "lon": -95.9846
+  },
+  "gc_mi": 220,
+  "drive_min": 245,
+  "hub_min": 249,
+  "road_mi": 265,
+  "rnd_min": 114,
+  "saved_min": 131,
+  "pop_a": 717204,
+  "pop_b": 741033,
+  "score": 21228445628.5
+ },
+ {
+  "rank": 36,
+  "a": {
+   "id": "HYA",
+   "n": "Cape Cod Gateway Airport",
+   "c": "Hyannis",
+   "s": "MA",
+   "lat": 41.6693,
+   "lon": -70.2804
+  },
+  "b": {
+   "id": "PNE",
+   "n": "Northeast Philadelphia Airport",
+   "c": "Philadelphia",
+   "s": "PA",
+   "lat": 40.0824,
+   "lon": -75.0106
+  },
+  "gc_mi": 270,
+  "drive_min": 311,
+  "hub_min": 304,
+  "road_mi": 337,
+  "rnd_min": 128,
+  "saved_min": 176,
+  "pop_a": 228996,
+  "pop_b": 2250335,
+  "score": 20382069455.6
+ },
+ {
+  "rank": 37,
+  "a": {
+   "id": "CRG",
+   "n": "Jacksonville Executive at Craig Airport",
+   "c": "Jacksonville",
+   "s": "FL",
+   "lat": 30.3363,
+   "lon": -81.5144
+  },
+  "b": {
+   "id": "FMY",
+   "n": "Page Field",
+   "c": "Fort Myers",
+   "s": "FL",
+   "lat": 26.5866,
+   "lon": -81.8633
+  },
+  "gc_mi": 260,
+  "drive_min": 272,
+  "hub_min": 228,
+  "road_mi": 294,
+  "rnd_min": 115,
+  "saved_min": 112,
+  "pop_a": 995567,
+  "pop_b": 760822,
+  "score": 20307239643.8
+ },
+ {
+  "rank": 38,
+  "a": {
+   "id": "LOU",
+   "n": "Bowman Field",
+   "c": "Louisville",
+   "s": "KY",
+   "lat": 38.228,
+   "lon": -85.6637
+  },
+  "b": {
+   "id": "TYS",
+   "n": "McGhee Tyson Airport",
+   "c": "Knoxville/Maryville",
+   "s": "TN",
+   "lat": 35.811,
+   "lon": -83.994
+  },
+  "gc_mi": 191,
+  "drive_min": 236,
+  "hub_min": 202,
+  "road_mi": 256,
+  "rnd_min": 108,
+  "saved_min": 94,
+  "pop_a": 850576,
+  "pop_b": 614251,
+  "score": 18633455327.7
+ },
+ {
+  "rank": 39,
+  "a": {
+   "id": "ERI",
+   "n": "Erie International Tom Ridge Field",
+   "c": "Erie",
+   "s": "PA",
+   "lat": 42.0831,
+   "lon": -80.1739
+  },
+  "b": {
+   "id": "LDJ",
+   "n": "Linden Airport",
+   "c": "Linden",
+   "s": "NJ",
+   "lat": 40.6174,
+   "lon": -74.2446
+  },
+  "gc_mi": 324,
+  "drive_min": 400,
+  "hub_min": 322,
+  "road_mi": 433,
+  "rnd_min": 147,
+  "saved_min": 174,
+  "pop_a": 270876,
+  "pop_b": 2279615,
+  "score": 18460197780.4
+ },
+ {
+  "rank": 40,
+  "a": {
+   "id": "ICT",
+   "n": "Wichita Dwight D. Eisenhower National Airport",
+   "c": "Wichita",
+   "s": "KS",
+   "lat": 37.6503,
+   "lon": -97.4286
+  },
+  "b": {
+   "id": "MLE",
+   "n": "Millard Airport",
+   "c": "Omaha",
+   "s": "NE",
+   "lat": 41.1959,
+   "lon": -96.1121
+  },
+  "gc_mi": 255,
+  "drive_min": 301,
+  "hub_min": 304,
+  "road_mi": 326,
+  "rnd_min": 119,
+  "saved_min": 182,
+  "pop_a": 523824,
+  "pop_b": 775130,
+  "score": 18203922512.2
+ },
+ {
+  "rank": 41,
+  "a": {
+   "id": "BDR",
+   "n": "Igor I Sikorsky Memorial Airport",
+   "c": "Bridgeport",
+   "s": "CT",
+   "lat": 41.1635,
+   "lon": -73.1262
+  },
+  "b": {
+   "id": "THV",
+   "n": "York Airport",
+   "c": "Thomasville",
+   "s": "PA",
+   "lat": 39.917,
+   "lon": -76.873
+  },
+  "gc_mi": 215,
+  "drive_min": 239,
+  "hub_min": 343,
+  "road_mi": 259,
+  "rnd_min": 133,
+  "saved_min": 106,
+  "pop_a": 957419,
+  "pop_b": 560290,
+  "score": 18011334716.0
+ },
+ {
+  "rank": 42,
+  "a": {
+   "id": "JFK",
+   "n": "John F. Kennedy International Airport",
+   "c": "New York",
+   "s": "NY",
+   "lat": 40.6394,
+   "lon": -73.7793
+  },
+  "b": {
+   "id": "UNV",
+   "n": "State College Regional Airport",
+   "c": "State College",
+   "s": "PA",
+   "lat": 40.8494,
+   "lon": -77.8485
+  },
+  "gc_mi": 213,
+  "drive_min": 233,
+  "hub_min": 283,
+  "road_mi": 252,
+  "rnd_min": 108,
+  "saved_min": 125,
+  "pop_a": 2736074,
+  "pop_b": 158172,
+  "score": 17290710803.0
+ },
+ {
+  "rank": 43,
+  "a": {
+   "id": "FWA",
+   "n": "Fort Wayne International Airport",
+   "c": "Fort Wayne",
+   "s": "IN",
+   "lat": 40.9789,
+   "lon": -85.1945
+  },
+  "b": {
+   "id": "MKE",
+   "n": "General Mitchell International Airport",
+   "c": "Milwaukee",
+   "s": "WI",
+   "lat": 42.9472,
+   "lon": -87.8966
+  },
+  "gc_mi": 194,
+  "drive_min": 230,
+  "hub_min": 295,
+  "road_mi": 249,
+  "rnd_min": 118,
+  "saved_min": 111,
+  "pop_a": 447781,
+  "pop_b": 939489,
+  "score": 17270777131.5
+ },
+ {
+  "rank": 44,
+  "a": {
+   "id": "AUS",
+   "n": "Austin Bergstrom International Airport",
+   "c": "Austin",
+   "s": "TX",
+   "lat": 30.1975,
+   "lon": -97.662
+  },
+  "b": {
+   "id": "BTR",
+   "n": "Baton Rouge Metropolitan Airport",
+   "c": "Baton Rouge",
+   "s": "LA",
+   "lat": 30.5332,
+   "lon": -91.1496
+  },
+  "gc_mi": 389,
+  "drive_min": 398,
+  "hub_min": 332,
+  "road_mi": 431,
+  "rnd_min": 173,
+  "saved_min": 158,
+  "pop_a": 1290188,
+  "pop_b": 645801,
+  "score": 17206505362.8
+ },
+ {
+  "rank": 45,
+  "a": {
+   "id": "DTW",
+   "n": "Detroit Metropolitan Wayne County Airport",
+   "c": "Detroit",
+   "s": "MI",
+   "lat": 42.2138,
+   "lon": -83.3538
+  },
+  "b": {
+   "id": "RFD",
+   "n": "Chicago Rockford International Airport",
+   "c": "Chicago/Rockford",
+   "s": "IL",
+   "lat": 42.1954,
+   "lon": -89.0972
+  },
+  "gc_mi": 294,
+  "drive_min": 327,
+  "hub_min": 315,
+  "road_mi": 354,
+  "rnd_min": 148,
+  "saved_min": 167,
+  "pop_a": 1793561,
+  "pop_b": 285350,
+  "score": 16994914714.9
+ },
+ {
+  "rank": 46,
+  "a": {
+   "id": "RDG",
+   "n": "Reading Regional Airport (Carl A Spaatz Field)",
+   "c": "Reading",
+   "s": "PA",
+   "lat": 40.3785,
+   "lon": -75.9652
+  },
+  "b": {
+   "id": "ROC",
+   "n": "Frederick Douglass Greater Rochester International Airport",
+   "c": "Rochester",
+   "s": "NY",
+   "lat": 43.1189,
+   "lon": -77.6724
+  },
+  "gc_mi": 209,
+  "drive_min": 253,
+  "hub_min": 329,
+  "road_mi": 274,
+  "rnd_min": 100,
+  "saved_min": 152,
+  "pop_a": 428849,
+  "pop_b": 759443,
+  "score": 16451593425.9
+ },
+ {
+  "rank": 47,
+  "a": {
+   "id": "BGM",
+   "n": "Greater Binghamton/Edwin A Link field",
+   "c": "Binghamton",
+   "s": "NY",
+   "lat": 42.2087,
+   "lon": -75.9798
+  },
+  "b": {
+   "id": "ISP",
+   "n": "Long Island MacArthur Airport",
+   "c": "Islip",
+   "s": "NY",
+   "lat": 40.7963,
+   "lon": -73.1017
+  },
+  "gc_mi": 178,
+  "drive_min": 220,
+  "hub_min": 273,
+  "road_mi": 238,
+  "rnd_min": 95,
+  "saved_min": 125,
+  "pop_a": 198683,
+  "pop_b": 1525920,
+  "score": 15964196015.1
+ },
+ {
+  "rank": 48,
+  "a": {
+   "id": "CKV",
+   "n": "Clarksville\u2013Montgomery County Regional Airport",
+   "c": "Clarksville",
+   "s": "TN",
+   "lat": 36.6219,
+   "lon": -87.415
+  },
+  "b": {
+   "id": "PDK",
+   "n": "DeKalb Peachtree Airport",
+   "c": "Atlanta",
+   "s": "GA",
+   "lat": 33.8763,
+   "lon": -84.3021
+  },
+  "gc_mi": 259,
+  "drive_min": 277,
+  "hub_min": 382,
+  "road_mi": 300,
+  "rnd_min": 127,
+  "saved_min": 150,
+  "pop_a": 233726,
+  "pop_b": 1831092,
+  "score": 15430699227.1
+ },
+ {
+  "rank": 49,
+  "a": {
+   "id": "BWI",
+   "n": "Baltimore/Washington International Thurgood Marshall Airport",
+   "c": "Baltimore",
+   "s": "MD",
+   "lat": 39.1754,
+   "lon": -76.6683
+  },
+  "b": {
+   "id": "ERI",
+   "n": "Erie International Tom Ridge Field",
+   "c": "Erie",
+   "s": "PA",
+   "lat": 42.0831,
+   "lon": -80.1739
+  },
+  "gc_mi": 272,
+  "drive_min": 342,
+  "hub_min": 303,
+  "road_mi": 370,
+  "rnd_min": 134,
+  "saved_min": 169,
+  "pop_a": 1506286,
+  "pop_b": 270876,
+  "score": 15380964092.2
+ },
+ {
+  "rank": 50,
+  "a": {
+   "id": "DAL",
+   "n": "Dallas Love Field",
+   "c": "Dallas",
+   "s": "TX",
+   "lat": 32.8448,
+   "lon": -96.8477
+  },
+  "b": {
+   "id": "TOP",
+   "n": "Philip Billard Municipal Airport",
+   "c": "Topeka",
+   "s": "KS",
+   "lat": 39.0699,
+   "lon": -95.6226
+  },
+  "gc_mi": 436,
+  "drive_min": 458,
+  "hub_min": 420,
+  "road_mi": 496,
+  "rnd_min": 169,
+  "saved_min": 251,
+  "pop_a": 2613539,
+  "pop_b": 210509,
+  "score": 15213519771.1
+ }
+]
